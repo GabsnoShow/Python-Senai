@@ -1,0 +1,5 @@
+print('Olá, mundo! ;)')
+print('Bom dia a todos vocês ;)')
+print('Bora Buscar Conhecimento ;)')
+print('Cada Passo é um Aprendizado ;)')
+print('Seja Feliz Daquilo Que o Dinheiro Não Pode Comprar ;)')
